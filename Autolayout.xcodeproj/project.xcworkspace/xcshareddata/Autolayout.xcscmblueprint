@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C039F5EE824BD4AB2F249337409D8753634A35ED",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C039F5EE824BD4AB2F249337409D8753634A35ED" : 0,
+    "DBEBA49FFE6D354A7908EF1A61096B0BBADFC292" : 0,
+    "9F7CC8580B708AB49ED1184EBF6BF00FC103F59D" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E0528101-B852-412F-8F6D-C6E7FD958CBC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C039F5EE824BD4AB2F249337409D8753634A35ED" : "iOS-Student-Autolayout",
+    "DBEBA49FFE6D354A7908EF1A61096B0BBADFC292" : "",
+    "9F7CC8580B708AB49ED1184EBF6BF00FC103F59D" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Autolayout",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Autolayout.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "ssh:\/\/github.com\/sleepyUdon\/LighthouseLab",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9F7CC8580B708AB49ED1184EBF6BF00FC103F59D"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lighthouse-labs\/iOS-Student-Autolayout.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C039F5EE824BD4AB2F249337409D8753634A35ED"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:sleepyUdon\/Lighthouse-Lab.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DBEBA49FFE6D354A7908EF1A61096B0BBADFC292"
+    }
+  ]
+}
